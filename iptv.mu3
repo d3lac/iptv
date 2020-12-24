@@ -9,7 +9,7 @@ https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="Tamil Vision TV" tvg-name="Tamil Vision TV" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="CANADA",Tamil Vision TV
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Kalaignar TV" tvg-name="Kalaignar TV" tvg-logo="" group-title="INDIA",Kalaignar
+#EXTINF:-1 tvg-id="Kalaignar TV" tvg-name="Kalaignar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="INDIA",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thanthi TV" tvg-logo="https://i.imgur.com/jek0twl.png" group-title="INDIA",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
