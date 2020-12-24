@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="PLEX.TV.Reuters.Now" tvg-name="Reuters Now" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="PLEX USA",Reuters Now
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/e4ac1198-a0dc-4d0b-a1bd-1cc26638d42c/7.m3u8
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=Deutsche Welle tvg-id="DeutscheWelleDE.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-name=Deutsche Welle+ tvg-id="DeutscheWelle+DE.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="Tamil Vision TV" tvg-name="Tamil Vision TV" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="CANADA",Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Kalaignar TV" tvg-name="Kalaignar TV" tvg-logo="" group-title="INDIA",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thanthi TV" tvg-logo="https://i.imgur.com/jek0twl.png" group-title="INDIA",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai TV" tvg-name="PuthiyaThalaimurai TV" tvg-logo="https://i.imgur.com/IY1huad.jpg" group-title="INDIA",PuthiyaThalaimurai TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1608819671/ei/d0_kX7a1Hoa21gLYjq2YCg/ip/2605:6400:30:f776:634f:8704:3324:f92d/id/-IYfy_tBmQo.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-ab5l6nzr.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/pO/mm/44/mn/sn-ab5l6nzr/ms/lva/mv/u/mvi/3/pl/53/dover/11/keepalive/yes/mt/1608797352/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgUL0i7JcvXVX7XSB7dadC-8GZ0lG9igZ3hwMXE8zGfcgCIB62KWjf4ij-5vKZixHnMF1r1U3DWX5M1pbJ_O1X7KIw/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIhAKoHV9GoK8Q3gpEmcmUtIbkgq86lz3m2TpqxhW3jwukVAh8TDIvOPGej-gaEMHWRZeR1GfSbjqKTRU3wYvrDqcMg/playlist/index.m3u8
